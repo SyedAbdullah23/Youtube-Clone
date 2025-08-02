@@ -95,7 +95,13 @@ Example Code:
 
 ### 💬 Main Interface
 
-[Insert screenshot or placeholder: A view of the fixed header, sidebar, and video grid]
+![Screenshot](./image.png)
+
+# 💬 Max-width:600px
+
+![Screenshot](./Max-width - 600px.png)
+
+
 
 
 
