@@ -99,7 +99,7 @@ Example Code:
 
 # 💬 Max-width:600px
 
-![Screenshot](./Max-width - 600px.png)
+![Screenshot](./Max-width-600px.png)
 
 
 
